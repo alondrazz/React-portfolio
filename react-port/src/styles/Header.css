@@ -1,9 +1,9 @@
-.header {
+.Header {
   background: #1f2232;
   height: 200px;
 }
 
-.header h1 {
+.Header h1 {
   margin: 0;
   padding-top: 75px;
   text-align: center;
