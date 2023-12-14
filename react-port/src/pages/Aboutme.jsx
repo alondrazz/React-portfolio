@@ -1,6 +1,9 @@
+import React from 'react'
+import '../styles/Aboutme.css';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Navigation from '../components/Navigation';
+ 
 // import Project from '../components/Project';
 
 
@@ -9,7 +12,7 @@ function Aboutme() {
       <div>
         <Header />
         <Navigation />
-        <h2> About me</h2>
+        <h1> Hello! I'm Alondra, a passionate and dedicated web developer with a strong foundation in a variety of technologies. I am proficient in React </h1>
         <Footer />
       </div>
     );

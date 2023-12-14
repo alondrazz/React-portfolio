@@ -1,0 +1,26 @@
+/* Footer.css */
+
+/* Styling for the overall navigation component */
+.main-header-menu {
+    background: #596475;
+    height: 50px;
+    /* margin: 30; */
+    padding: 0 200px;
+    text-align: center;
+    color: white;
+    font-size: 1.2rem; /* Correct the typo: 'font-Size' to 'font-size' */
+  }
+  
+  /* Styling for each individual link */
+  .main-header-menu div {
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  /* Styling for the links themselves */
+  .main-header-menu a {
+    text-decoration: none;
+    color: white;
+  }
+  

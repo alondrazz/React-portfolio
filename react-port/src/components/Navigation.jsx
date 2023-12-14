@@ -1,27 +1,4 @@
-// const linkStyles = {
-//     card: {
-//         margin: 20,
-//         background: '#596475',
-//     },
-// heading: {
-//     background: '#bc9ec1',
-//     minHeight: 50,
-//     lineHeight: 3.5,
-//     fontSize: '1.2rem',
-//     color: 'white',
-//     padding: '0 20px',
-// },
-// };
-
-// function Navigation() {
-//     return (
-//         <div style={styles.card}>
-//             <div style={linkStyles.heading}>Home</div>
-//         </div>
-//     );
-// }
-
-// export default Navigation;
+import '../styles/Navigation.css';
 export default function Nav() {
     const linkStyle = { border: '1px black', padding: '5px' };
   
